@@ -45,9 +45,7 @@
         gtag('config', 'AW-794012728');
         </script>
         <style>
-            #a1{
-                
-            }
+          
             #mc-embedded-subscribe{
                     margin-left: auto;
     margin-right: auto;
