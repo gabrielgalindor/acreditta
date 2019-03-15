@@ -1,0 +1,6 @@
+[05-Jun-2018 14:51:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function errorInfo() on boolean in /home/cacreditta/public_html/edicion/db.class.php:86
+Stack trace:
+#0 /home/cacreditta/public_html/edicion/db.class.php(129): db_class->select('Select campos')
+#1 /home/cacreditta/public_html/edicion/edicion.php(94): db_class->dump_query('Select campos')
+#2 {main}
+  thrown in /home/cacreditta/public_html/edicion/db.class.php on line 86

@@ -1,0 +1,40 @@
+[06-Feb-2018 23:15:15 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Container\Container' not found in /home/cacreditta/laravel/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 13
+[13-Jun-2018 20:43:31 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/cacreditta/laravel/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[19-Nov-2018 08:41:10 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2003] Can't connect to MySQL server on '127.0.0.1' (111) in /home/cacreditta/laravel/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:67
+Stack trace:
+#0 /home/cacreditta/laravel/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(67): PDO->__construct('mysql:host=127....', 'cacaodigital', '(4wue)o#p$P?', Array)
+#1 /home/cacreditta/laravel/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(43): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'cacaodigital', '(4wue)o#p$P?', Array)
+#2 /home/cacreditta/laravel/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home/cacreditta/laravel/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [inter in /home/cacreditta/laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 664
+[19-Nov-2018 08:41:10 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2003] Can't connect to MySQL server on '127.0.0.1' (111) in /home/cacreditta/laravel/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:67
+Stack trace:
+#0 /home/cacreditta/laravel/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(67): PDO->__construct('mysql:host=127....', 'cacaodigital', '(4wue)o#p$P?', Array)
+#1 /home/cacreditta/laravel/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(43): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'cacaodigital', '(4wue)o#p$P?', Array)
+#2 /home/cacreditta/laravel/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home/cacreditta/laravel/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [inter in /home/cacreditta/laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 664
+[18-Dec-2018 22:31:55 UTC] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home/cacreditta/public_html/n1.php on line 3
+[18-Dec-2018 22:31:55 UTC] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/cacreditta/public_html/n1.php on line 3
+[18-Dec-2018 22:31:57 UTC] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home/cacreditta/public_html/n1.php on line 3
+[18-Dec-2018 22:31:57 UTC] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/cacreditta/public_html/n1.php on line 3
+[18-Dec-2018 22:32:09 UTC] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home/cacreditta/public_html/n1.php on line 3
+[18-Dec-2018 22:32:09 UTC] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/cacreditta/public_html/n1.php on line 3
+[18-Dec-2018 22:32:15 UTC] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home/cacreditta/public_html/n1.php on line 3
+[18-Dec-2018 22:32:15 UTC] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/cacreditta/public_html/n1.php on line 3
+[18-Dec-2018 22:33:57 UTC] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home/cacreditta/public_html/n1.php on line 3
+[18-Dec-2018 22:33:57 UTC] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/cacreditta/public_html/n1.php on line 3
+[18-Dec-2018 22:35:40 UTC] PHP Warning:  require_once(Mail.php): failed to open stream: No such file or directory in /home/cacreditta/public_html/n1.php on line 3
+[18-Dec-2018 22:35:40 UTC] PHP Fatal error:  require_once(): Failed opening required 'Mail.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/cacreditta/public_html/n1.php on line 3
+[08-Jan-2019 15:04:53 America/Caracas] PHP Fatal error:  Interface 'Illuminate\Contracts\Support\Jsonable' not found in /home/cacreditta/laravel/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 19
+[14-Jan-2019 20:24:53 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2003] Can't connect to MySQL server on '127.0.0.1' (111) in /home/cacreditta/laravel/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:67
+Stack trace:
+#0 /home/cacreditta/laravel/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(67): PDO->__construct('mysql:host=127....', 'cacaodigital', '(4wue)o#p$P?', Array)
+#1 /home/cacreditta/laravel/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(43): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'cacaodigital', '(4wue)o#p$P?', Array)
+#2 /home/cacreditta/laravel/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 /home/cacreditta/laravel/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(183): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [inter in /home/cacreditta/laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 664
+[21-Feb-2019 20:49:39 UTC] PHP Notice:  Undefined variable: producto in /home/cacreditta/public_html/prueba32.php on line 22
+[21-Feb-2019 20:50:17 UTC] PHP Notice:  Undefined variable: producto in /home/cacreditta/public_html/prueba32.php on line 22
+[21-Feb-2019 20:50:57 UTC] PHP Notice:  Undefined variable: producto in /home/cacreditta/public_html/prueba32.php on line 22
+[21-Feb-2019 20:51:27 UTC] PHP Notice:  Undefined variable: producto in /home/cacreditta/public_html/prueba32.php on line 22
