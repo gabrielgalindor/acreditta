@@ -45,6 +45,9 @@
         gtag('config', 'AW-794012728');
         </script>
         <style>
+        #signos{
+            display: none;
+        }
           
             #mc-embedded-subscribe{
                     margin-left: auto;
